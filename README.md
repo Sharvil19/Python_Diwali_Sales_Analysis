@@ -48,11 +48,6 @@ The analysis highlights key customer segments and product categories driving sal
 
 ---
 
-## 📂 Dataset
-Diwali Sales Dataset (CSV file)
-
----
-
 ## 📫 Contact
 📧 Email: sharvilbookshet13@gmail.com  
 
